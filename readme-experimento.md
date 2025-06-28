@@ -12,3 +12,7 @@ Archivo alternativo de README para experimentar sin tocar el principal
 
 Este archivo fue editado para demostrar el poder de Git.
 
+
+
+Editando...
+
